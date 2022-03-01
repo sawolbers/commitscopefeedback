@@ -2,7 +2,7 @@
 Module for applying feedback tracking using the commit scope framework
 
 == Typical usage scenario ==
-Any project that uses commit scope as a framework.
+- Any project that uses commit scope as a framework.
 
 == Features and limitations ==
 - Feedback entity for keeping track of action status
